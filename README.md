@@ -20,16 +20,12 @@ Request Body (JSON):
 }
 Example Request:
 
-json
-Copy code
 {
     "title": "Buy groceries",
     "description": "Get milk, eggs, and bread"
 }
 Response (201 Created):
 
-json
-Copy code
 {
     "message": "Task created successfully",
     "task": {
